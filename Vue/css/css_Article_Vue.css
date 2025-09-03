@@ -1,0 +1,77 @@
+.contentView
+{
+	display: flex;
+	flex-direction: row;
+	width: 95%;
+	margin-top: 15px;
+}
+
+.divPictureArticle
+{
+	width: 28%;
+	margin: 0px 10px;
+}
+
+.pictureArticle
+{
+	width: 100%;
+}
+
+.divCenterArticle
+{
+	flex: 1; 
+	margin: 0px 2px;
+}
+
+.nameArtilce
+{
+	margin: 0px;
+	text-align: left;
+	font-size: 1.8em;
+}
+
+.descriptionArtilce
+{
+	margin-top: 10px;
+	font-size: 1.05em;
+	text-align: left;
+}
+
+.contemenuRightArticle
+{
+	padding: 10px 0px;
+	background-color: rgb(21,70,89);
+	border-radius: 15px;
+	border: 3px rgb(233,227,10) ridge;
+}
+
+.menuRightArticle
+{
+	width: 15%;
+	margin: 0px 10px; 
+}
+
+.priceArtilce
+{
+	margin: 0px 0px 15px 0px;
+	font-size: 1.5em;
+}
+
+.addArticle
+{
+	padding: 5px 15px;
+	
+	border: 3px rgb(233,227,10) ridge;
+	
+	background-color: rgb(21,70,89);
+	
+	color: black;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.stockArticle
+{
+	font-size: 1.4em;
+}

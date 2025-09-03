@@ -1,0 +1,61 @@
+.PanierContent
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 15px;
+	
+	width: 100%;
+}
+
+.tableau
+{
+	display: flex;
+	flex-direction: column;
+	width: 70%;
+	
+	text-align: left;
+}
+
+.tableauColonne
+{
+	
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 100%;
+}
+
+.designation
+{
+	flex: 1;
+}
+
+.prix
+{
+	width: 80px;
+}
+
+.quantite
+{
+	width: 100px;
+}
+
+.total
+{
+	width: 80px;
+}
+
+.panierTotal
+{
+	width: 100%;
+	text-align: end;
+}
+
+.panierCommender
+{
+	width: 70%;
+	margin-top: 20px;
+	display: flex;
+	justify-content: end;
+}

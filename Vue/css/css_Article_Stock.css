@@ -1,0 +1,92 @@
+.stockContent
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 15px;
+	
+	width: 100%;
+}
+
+.tableStock
+{
+	display: flex;
+	flex-direction: column;
+	width: 70%;
+	
+	text-align: left;
+}
+
+.lineStock
+{
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+}
+	
+.idStock
+{
+	width: 35px;
+}
+
+.nameStock
+{
+	flex: 1;
+}
+.priceStock
+{
+	width: 70px;
+}
+
+.buyStock
+{
+	width: 70px;
+}
+
+.sotckStock
+{
+	width: 70px;
+}
+
+.soldeStock
+{
+	width: 70px;
+}
+
+.TotalbuyStock
+{
+	width: 100px;
+}
+
+.actionStock
+{
+	width: 100px;
+}
+
+.nomberAricleStock
+{
+	padding: 2px;
+	margin-bottom: 1px;
+	border: 2px rgb(233,227,10) ridge;
+	width: 30px;
+
+	background-color: rgb(21,70,89);
+	
+	color: black;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.boutonAricleStock
+{
+	padding: 2px;
+	border: 2px rgb(233,227,10) ridge;
+	
+	background-color: rgb(21,70,89);
+	
+	color: black;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}

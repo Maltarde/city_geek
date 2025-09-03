@@ -1,0 +1,68 @@
+.contentMembre
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+	width: 70%;
+	text-align: start;	
+}
+
+.titleMembre
+{
+	width: 100%;
+	
+	font-size: 1.3em;
+	border-bottom: 3px rgb(233,227,10) ridge;
+}
+
+.tableMembre
+{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	
+	text-align: left;
+}
+
+.lineMembre
+{
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+}
+
+.idMembre
+{
+	width: 35px;
+}
+
+.pseudoMembre
+{
+	flex: 1;
+}
+
+.mailMembre
+{
+	width: 150px
+}
+
+.commandMembre
+{
+	width: 90px;
+}
+
+.articleMembre
+{
+	width: 60px;
+}
+
+.buyMembre
+{
+	width: 90px;
+}
+
+.dateMembre
+{
+	width: 100px;
+}
